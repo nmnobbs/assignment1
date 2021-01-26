@@ -28,7 +28,7 @@ In the section below, create an **unordered list** of the three articles you fou
 ## Accompanying Image
 In this section, please **display one image** to accompany your text, and describe _why_ you included it (~2 - 3 sentences). This will require that you download an image into your project folder. In your description, use **bold** and _italics_ (at least once, for practice) to emphasize some of your points.
 
-![](assets/markdown-img-paste-20210125101227831.png)
+https://cdn.heard.zone/wp-content/uploads/2020/06/Who-Are-the-Artists-Behind-the-Protest-Art-Youve-Been.jpg
 
 
 **Why this image?** I included this image because it provides context into the _magnitude_ that the protests about police brutality and racial injustice have had on the world in recent months. This picture provides an _art_ depiction of protests for **BLACK LIVES MATTER** and emphasizes the need for justice for Breonna Taylor and George Floyd.
